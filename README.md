@@ -34,9 +34,13 @@ Each script contains detailed comments explaining the code and the simulation re
 This repository includes a variety of examples demonstrating different circuit simulations:
 
 Basic RLC Circuit: Simulate a simple resistor-inductor-capacitor circuit.
+
 Diode Characteristics: Analyze the I-V characteristics of a diode.
+
 Transistor Amplifiers: Simulate common-emitter and common-collector amplifiers.
+
 MOSFET Switching: Explore the behavior of MOSFETs in switching applications.
+
 Operational Amplifiers: Simulate various op-amp configurations, including inverting and non-inverting amplifiers.
 
 Each example is located in the examples directory and is accompanied by detailed documentation.
